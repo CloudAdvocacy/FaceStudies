@@ -1,0 +1,5 @@
+ipyplot
+pandas
+numpy
+matplotlib
+azure-cognitiveservices-vision-face
