@@ -1,5 +1,5 @@
-# FaceStudies
+# Facial Studies using Cognitive Services
 
 Using Cognitive Services to make some conclusions on how people behave on photographs.
 
-<a href="https://notebooks.azure.com/import/gh/CloudAdvocacy/FaceStudies"><img src="https://notebooks.azure.com/launch.png" /></a>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CloudAdvocacy/CognitivePortrait/master)
